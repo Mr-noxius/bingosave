@@ -1,36 +1,14 @@
 {
   "users": [
-    {
-      "username": "menno",
-      "password": "menno",
-      "kaart": [
-        "s",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d",
-        "d"
-      ]
-    }
+{
+  "username": "menno",
+  "password": "menno",
+  "bingoCard": [
+    { "text": "s", "checked": false },
+    { "text": "d", "checked": false },
+    { "text": "d", "checked": false },
+  ]
+}
   ],
   "progress": {
     "menno": [
