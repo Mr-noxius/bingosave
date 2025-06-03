@@ -3,108 +3,16 @@
     {
       "username": "menno",
       "password": "menno",
-      "bingoCard": [
-        {
-          "text": "s",
-          "checked": true
-        },
-        {
-          "text": "d",
-          "checked": true
-        },
-        {
-          "text": "d",
-          "checked": true
-        },
-        {
-          "text": "d",
-          "checked": true
-        },
-        {
-          "text": "d",
-          "checked": true
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        },
-        {
-          "text": "d",
-          "checked": false
-        }
+      "kaart": [
+        "s", "d", "d", "d", "d",
+        "d", "d", "d", "d", "d",
+        "d", "d", "d", "d", "d",
+        "d", "d", "d", "d", "d",
+        "d", "d", "d", "d", "d"
       ]
     }
-  ]
+  ],
+  "progress": {
+    "menno": ["0", "7", "8", "13", "18", "2", "3"]
+  }
 }
